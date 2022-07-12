@@ -1,13 +1,15 @@
+/* eslint-disable linebreak-style */
 // Display Books
-export class UI {
+export default class UI {
   static displayBooks() {
+    // eslint-disable-next-line no-undef
     const books = Store.getBooks();
     books.forEach((book) => UI.addBookToList(book));
   }
 
   static addBookToList(book) {
-    const list = document.querySelector(".book-container");
-    const addedbook = document.createElement("div");
+    const list = document.querySelector('.book-container');
+    const addedbook = document.createElement('div');
     addedbook.innerHTML = `
       <div class="texts">
           <p>"${book.title}" by </p>
@@ -21,13 +23,13 @@ export class UI {
   }
 
   static deleteBook(el) {
-    if (el.classList.contains("delete")) {
+    if (el.classList.contains('delete')) {
       el.parentElement.remove();
     }
   }
 
   static clearFields() {
-    document.querySelector("#title").value = "";
-    document.querySelector("#author").value = "";
+    document.querySelector('#title').value = '';
+    document.querySelector('#author').value = '';
   }
 }
