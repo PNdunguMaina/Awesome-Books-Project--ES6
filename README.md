@@ -1,56 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books Project ES6
 
-> Description the project.
-
+> This project was created by code refactory of the previous "Awesome Books Project" inorder to use modular Javascript
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-Languages: HTML, CSS & Javascript
+-Technologies: Visual Studio code
+-Other technologies: esLint
 
-## Live Demo (if available)
+## To get a local copy up and running follow these simple example steps.
 
-[Live Demo Link](https://livedemo.com)
+A browser
+A version control like git
+A text editor
 
+### Step 1
 
-## Getting Started
+[Click here](https://github.com/PNdunguMaina/Awesome-Books-Project--ES6.git) to get to my repository in Github. -Copy the link on the code button on the right (green in color). -Clone the link in your local folder.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Step 2
 
+Navigate to the cloned project -Open index.html file
 
-To get a local copy up and running follow these simple example steps.
+## Author
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Patrick Maina**
 
 ## 🤝 Contributing
 
@@ -64,9 +40,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+[Microverse] (https://www.microverse.org/)
 
 ## 📝 License
 
