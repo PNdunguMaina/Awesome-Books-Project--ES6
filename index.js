@@ -1,7 +1,6 @@
-/* eslint-disable linebreak-style */
-import { Book } from './modules/main.js';
-import { Store } from './modules/storage.js';
-import { UI } from './modules/UI.js';
+import Book from './modules/main.js';
+import Store from './modules/storage.js';
+import UI from './modules/UI.js';
 import * as timeZone from './modules/date.js';
 
 // set timezone

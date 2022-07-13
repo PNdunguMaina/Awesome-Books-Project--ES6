@@ -183,7 +183,7 @@ input::placeholder {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20rem;
+  margin-top: 15rem;
   padding: 1.5rem;
 }
 
@@ -200,7 +200,7 @@ input::placeholder {
   line-height: 40px;
   margin-left: 30px;
   margin-right: 30px;
-  height: 50rem;
+  height: 40rem;
 }
 
 #contact-us h4 {
@@ -228,7 +228,7 @@ footer h3 {
 }
 
 #contact-us,
-#list-form,
+#home-page,
 #books-list {
   display: none;
 }
