@@ -1,7 +1,7 @@
-import Book from './modules/main.js';
-import Store from './modules/storage.js';
-import UI from './modules/UI.js';
-import * as timeZone from './modules/date.js';
+import Book from './main.js';
+import Store from './storage.js';
+import UI from './UI.js';
+import * as timeZone from './date.js';
 
 // set timezone
 const dateTime = document.getElementById('time-zone');
